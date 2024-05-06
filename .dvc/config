@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = myremote
+['remote "myremote"']
+    url = gs://console.cloud.google.com/storage/browser/mlops_dvc_lab1
